@@ -1,0 +1,1 @@
+# ucinci-django-views-sample
